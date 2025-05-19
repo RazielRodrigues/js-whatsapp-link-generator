@@ -1,2 +1,0 @@
-# js-whats-link-generator
- 
